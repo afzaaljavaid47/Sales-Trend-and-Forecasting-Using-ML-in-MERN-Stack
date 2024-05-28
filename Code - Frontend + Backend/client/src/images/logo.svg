@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="255" height="49" viewBox="0 0 255 49">
+  <defs>
+    <clipPath id="clip-logo">
+      <rect width="255" height="49"/>
+    </clipPath>
+  </defs>
+  <g id="logo" clip-path="url(#clip-logo)">
+    <text id="EcomPredictor" transform="translate(4 42)" fill="#fff" font-size="36" font-family="GlossAndBloom, Gloss And Bloom"><tspan x="0" y="0">EcomPredictor</tspan></text>
+  </g>
+</svg>

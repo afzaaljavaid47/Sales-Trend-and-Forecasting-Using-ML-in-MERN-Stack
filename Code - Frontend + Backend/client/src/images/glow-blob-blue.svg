@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="517" height="225" viewBox="0 0 517 225">
+  <defs>
+    <clipPath id="clip-glow-blob-blue">
+      <rect width="517" height="225"/>
+    </clipPath>
+  </defs>
+  <g id="glow-blob-blue" clip-path="url(#clip-glow-blob-blue)">
+    <g id="Group_3" data-name="Group 3" transform="translate(-1514 -869)">
+      <path id="Path_140" data-name="Path 140" d="M1388.472,945.377s-36.936-135.793,89.8-82.4,167.852,2.513,187.35-38.672,47-118.979,151.807-36.609-14.972,157.685-14.972,157.685Z" transform="translate(140 134.623)" fill="#1e6ec5"/>
+      <path id="Path_145" data-name="Path 145" d="M1388.472,945.377s-36.936-135.793,89.8-82.4,167.852,2.513,187.35-38.672,47-118.979,151.807-36.609-14.972,157.685-14.972,157.685Z" transform="translate(140 134.623)" fill="#1e6ec5"/>
+    </g>
+  </g>
+</svg>

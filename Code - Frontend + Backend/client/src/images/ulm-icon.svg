@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="23" height="21" viewBox="0 0 23 21">
+  <defs>
+    <clipPath id="clip-ulm-icon">
+      <rect width="23" height="21"/>
+    </clipPath>
+  </defs>
+  <g id="ulm-icon" clip-path="url(#clip-ulm-icon)">
+    <path id="Path_574" data-name="Path 574" d="M147.951,154.946l5.354-9.381H142.592l-5.36,9.283,5.36,9.283h10.719l5.35-9.266Z" transform="translate(-137 -144.444)" fill="#3f3d56"/>
+    <path id="Path_575" data-name="Path 575" d="M353.8,141.4l.01-.017-5.359-9.283h-.006l-5.354,9.381Z" transform="translate(-330.812 -131.769)" fill="#fff"/>
+  </g>
+</svg>

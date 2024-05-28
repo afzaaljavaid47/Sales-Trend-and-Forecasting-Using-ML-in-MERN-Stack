@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="28" height="21" viewBox="0 0 28 21">
+  <defs>
+    <clipPath id="clip-sf-icon">
+      <rect width="28" height="21"/>
+    </clipPath>
+  </defs>
+  <g id="sf-icon" clip-path="url(#clip-sf-icon)">
+    <g id="sales" transform="translate(-0.063)">
+      <rect id="Rectangle_125" data-name="Rectangle 125" width="0.868" height="0.84" transform="translate(0 3.351)" fill="#fff"/>
+      <rect id="Rectangle_126" data-name="Rectangle 126" width="0.868" height="0.84" transform="translate(0 6.72)" fill="#fff"/>
+      <path id="Path_317" data-name="Path 317" d="M54.86,145.3v-7.56h-.84v7.56H51.08V133.12h-.84V145.3H47.3v-7.56h-.84v7.56H43.52v-2.1h-.84v2.1H39.74v-4.2H38.9v4.2H35.96v-.84h-.84v.84H31.76V128.5H30.5v.84h.42v2.52H30.5v.84h.42v2.52H30.5v.84h.42v2.52H30.5v.84h.42v2.52H30.5v.84h.42v2.52H30.5v.84H57.464v-.84Z" transform="translate(-28.792 -125.14)" fill="#fff"/>
+      <rect id="Rectangle_127" data-name="Rectangle 127" width="0.868" height="0.84" transform="translate(0 10.08)" fill="#fff"/>
+      <rect id="Rectangle_128" data-name="Rectangle 128" width="0.868" height="0.84" transform="translate(0 13.44)" fill="#fff"/>
+      <rect id="Rectangle_129" data-name="Rectangle 129" width="0.868" height="0.84" transform="translate(0 16.8)" fill="#fff"/>
+      <rect id="Rectangle_130" data-name="Rectangle 130" width="0.868" height="0.84" transform="translate(0 20.16)" fill="#fff"/>
+      <path id="Path_318" data-name="Path 318" d="M99.26,356.02A1.26,1.26,0,1,0,98,354.76,1.261,1.261,0,0,0,99.26,356.02Zm0-1.68a.42.42,0,1,1-.42.42A.42.42,0,0,1,99.26,354.34Z" transform="translate(-92.512 -337.54)" fill="#fff"/>
+      <path id="Path_319" data-name="Path 319" d="M166.76,296.02a1.26,1.26,0,1,0-1.26-1.26A1.261,1.261,0,0,0,166.76,296.02Zm0-1.68a.42.42,0,1,1-.42.42A.42.42,0,0,1,166.76,294.34Z" transform="translate(-156.232 -280.9)" fill="#fff"/>
+      <path id="Path_320" data-name="Path 320" d="M234.26,333.52a1.26,1.26,0,1,0-1.26-1.26A1.261,1.261,0,0,0,234.26,333.52Zm0-1.68a.42.42,0,1,1-.42.42A.42.42,0,0,1,234.26,331.84Z" transform="translate(-219.952 -316.3)" fill="#fff"/>
+      <path id="Path_321" data-name="Path 321" d="M303.635,236.02a1.26,1.26,0,1,0-1.26-1.26A1.261,1.261,0,0,0,303.635,236.02Zm0-1.68a.42.42,0,1,1-.42.42A.42.42,0,0,1,303.635,234.34Z" transform="translate(-285.442 -224.26)" fill="#fff"/>
+      <path id="Path_322" data-name="Path 322" d="M434.885,233.5a1.26,1.26,0,1,0,1.26,1.26A1.261,1.261,0,0,0,434.885,233.5Zm0,1.68a.42.42,0,1,1,.42-.42A.42.42,0,0,1,434.885,235.18Z" transform="translate(-409.342 -224.26)" fill="#fff"/>
+      <path id="Path_323" data-name="Path 323" d="M369.26,153.52a1.26,1.26,0,1,0-1.26-1.26A1.261,1.261,0,0,0,369.26,153.52Zm0-1.68a.42.42,0,1,1-.42.42A.42.42,0,0,1,369.26,151.84Z" transform="translate(-347.392 -146.38)" fill="#fff"/>
+      <rect id="Rectangle_131" data-name="Rectangle 131" width="0.84" height="0.84" transform="translate(23.128 3.36)" fill="#fff"/>
+      <rect id="Rectangle_132" data-name="Rectangle 132" width="2.1" height="0.84" transform="translate(23.128 1.68)" fill="#fff"/>
+      <rect id="Rectangle_133" data-name="Rectangle 133" width="3.36" height="0.84" transform="translate(23.128 0)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

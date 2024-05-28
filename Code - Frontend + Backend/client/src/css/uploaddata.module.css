@@ -1,0 +1,20 @@
+.first_heading{
+    font-weight: 900;
+    font-size: 1.4em;
+}
+.heading{
+    font-weight: 900;
+    font-size: 1.4em;
+    margin-top: 2em;
+}
+.text{
+    font-size:1.1em;
+    margin: 0em 0em;
+}
+.paragraph{
+    margin: 0em 0em;
+}
+.loader{
+    max-width: 2rem;
+    margin-left: .8rem;
+}

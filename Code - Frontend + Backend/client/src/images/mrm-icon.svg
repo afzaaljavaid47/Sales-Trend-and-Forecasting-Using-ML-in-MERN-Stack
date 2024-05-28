@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="23" height="21" viewBox="0 0 23 21">
+  <defs>
+    <clipPath id="clip-mrm-icon">
+      <rect width="23" height="21"/>
+    </clipPath>
+  </defs>
+  <g id="mrm-icon" clip-path="url(#clip-mrm-icon)">
+    <text id="MR" transform="translate(0 16)" fill="#fff" font-size="13" font-family="ForteMT, Forte"><tspan x="0" y="0">MR</tspan></text>
+    <path id="Path_553" data-name="Path 553" d="M-7473-1483.5l3.86-5.943h3.851l2.567-3.208" transform="translate(7473 1494)" fill="none" stroke="#fdfdfd" stroke-width="1"/>
+    <path id="Path_554" data-name="Path 554" d="M-7466.358-1484.951l4.278-4.064h2.994l1.926-4.064,2.139,4.064,2.139-4.064,1.925,6.2" transform="translate(7473 1494)" fill="none" stroke="#fff" stroke-width="1"/>
+  </g>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="769" height="237" viewBox="0 0 769 237">
+  <defs>
+    <clipPath id="clip-glow-blob-white">
+      <rect width="769" height="237"/>
+    </clipPath>
+  </defs>
+  <g id="glow-blob-white" clip-path="url(#clip-glow-blob-white)">
+    <path id="Path_147" data-name="Path 147" d="M2124.363,960.327S2104.819,818.42,1907.2,875.922s-184.588-1.643-214.99-46-73.292-128.147-236.706-39.43,23.345,169.837,23.345,169.837Z" transform="translate(-1369.891 -735.377)" fill="#fff"/>
+  </g>
+</svg>

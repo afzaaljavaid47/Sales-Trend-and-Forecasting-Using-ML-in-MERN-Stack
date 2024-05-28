@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="23" height="21" viewBox="0 0 23 21">
+  <defs>
+    <clipPath id="clip-uploaddata-icon">
+      <rect width="23" height="21"/>
+    </clipPath>
+  </defs>
+  <g id="uploaddata-icon" clip-path="url(#clip-uploaddata-icon)">
+    <g id="upload" transform="translate(2.929 -0.028)">
+      <g id="Group_28" data-name="Group 28" transform="translate(5.444 7.899)">
+        <path id="Path_310" data-name="Path 310" d="M16.462,20.263h0a.316.316,0,0,1-.316-.316V12.823a.316.316,0,0,1,.316-.316h0a.316.316,0,0,1,.316.316v7.124A.316.316,0,0,1,16.462,20.263Z" transform="translate(-13.422 -12.507)" fill="#fff"/>
+        <path id="Path_311" data-name="Path 311" d="M17.6,15.862a.317.317,0,0,1-.224-.092l-2.5-2.5-2.5,2.5a.316.316,0,0,1-.447-.447L14.65,12.6a.316.316,0,0,1,.447,0l2.724,2.724a.315.315,0,0,1-.224.539Z" transform="translate(-11.834 -12.507)" fill="#fff"/>
+      </g>
+      <g id="Group_29" data-name="Group 29" transform="translate(0)">
+        <path id="Path_312" data-name="Path 312" d="M18.6,21.028H4.794a1.581,1.581,0,0,1-1.579-1.579V1.579A1.581,1.581,0,0,1,4.794,0H14.822a.316.316,0,1,1,0,.632H4.794a.949.949,0,0,0-.947.947v17.87a.949.949,0,0,0,.947.947H18.6a.949.949,0,0,0,.947-.947V5.5a.316.316,0,0,1,.632,0V19.45A1.58,1.58,0,0,1,18.6,21.028Z" transform="translate(-3.215)" fill="#fff"/>
+        <path id="Path_313" data-name="Path 313" d="M26.452,5.893H21.408a.316.316,0,0,1-.316-.316V.533a.316.316,0,0,1,.632,0V5.261h4.728a.316.316,0,0,1,0,.632Z" transform="translate(-9.801 -0.08)" fill="#fff"/>
+        <path id="Path_314" data-name="Path 314" d="M26.452,5.814a.316.316,0,0,1-.226-.1L21.182.537A.316.316,0,0,1,21.635.1l5.044,5.181a.315.315,0,0,1-.227.536Z" transform="translate(-9.801 0)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>
